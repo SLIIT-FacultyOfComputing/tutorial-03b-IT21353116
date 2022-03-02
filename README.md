@@ -14,6 +14,7 @@ You have to use the following commands in the <iomanip> header file
 
   ```c++
 #include <iostream>
+
 using namespace std;
 int main() {
    float marks[] = {78.4, 90.6, 45.9, 72.2, 54.4};
